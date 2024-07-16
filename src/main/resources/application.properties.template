@@ -4,7 +4,3 @@ spring.datasource.url=${db_url}
 spring.datasource.username=${db_username}
 spring.datasource.password=${db_password}
 spring.datasource.driver-class-name=org.postgresql.Driver
-
-
-
-#use env which you haven't already
